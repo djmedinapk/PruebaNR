@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "pr1-launcher",
+    "displayName": "Pr1Launcher",
+    "description": "Describe me",
+    "rootNerdletId": "pr1-nerdlet"
+}
